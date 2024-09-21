@@ -1,0 +1,15 @@
+Some techniques:
+Alt + N V T : Create pivot Table.
+Ctrl + T : Create Table.
+
+How to duplicate the pivot table sheet:
+- Click to the pivot table.
+- Hold Ctrl and press Left Click then drag until you see the little sign.
+
+Steps to conduct this project:
+- Used XLOOKUP and INDEX MATCH for data retrieval.
+- Applied formulas to calculate total sales and categorize data using IF functions.
+- Standardized date and number formatting for consistency.
+- Checked for duplicates and converted data ranges into structured tables.
+- Created Pivot Tables and Pivot Charts to summarize key metrics.
+- Built an interactive dashboard with timelines and slicers for dynamic filtering.
